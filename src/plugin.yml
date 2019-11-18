@@ -1,0 +1,11 @@
+name: codeBans
+version: 1.0
+author: PedroCodes
+main: me.pedrocodes.bans.Main
+commands:
+  ban:
+  kick:
+  banip:
+  unban:
+  unbanip:
+  verip:
